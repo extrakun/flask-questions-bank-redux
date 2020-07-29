@@ -1,5 +1,5 @@
 # Book CRUD
-Create a new Flask app inside app.py (important: for the automated marking to work, it must be app.py)
+Create a new Flask app inside app.py
 
 A book has the following fields:
 ```
