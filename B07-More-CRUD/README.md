@@ -4,7 +4,7 @@ Create a new Flask app inside app.py (important: for the automated marking to wo
 A book has the following fields:
 ```
 {
-    "isb":"X123-456",
+    "isbn":"X123-456",
     "title":"The Lord of the Rings",
     "type":"non-fiction",
     "genre":"fantasy",
