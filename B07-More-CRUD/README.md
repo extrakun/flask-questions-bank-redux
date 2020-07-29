@@ -22,7 +22,7 @@ A book has the following fields:
 Add in the following routes:
 
 ## /
-Display all the books in the system using in an unodered list (using <ul>), with the book title in each list item (<li></li>)
+Display all the books in the system using in an unodered list (using <ul>), with the book title in each list item (`<li></li>`)
 
 ## GET /search
 Create a form that allows the user to search for a book by title.
